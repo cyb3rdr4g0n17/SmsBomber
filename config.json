@@ -9,23 +9,22 @@
         "url": "https://securedapi.confirmtkt.com/api/platform/register?newOtp=true&mobileNumber=",
         "identifier": "false"
       },
-	  
-	  {
-        "name": "confirmtkt",
+      {
+        "name": "netmeds",
         "method": "GET",
         "url": "https://www.netmeds.com/mst/rest/v1/id/details/",
         "identifier": "false"
       },
-	    {
-        "name": "confirmtkt",
+      {
+        "name": "redbus",
         "method": "GET",
         "url": "https://www.redbus.in/Personalization/SendOTP?phoneCode=91&OTPSource=SIGNIN&tok=669387151593&mobile=",
         "identifier": "false"
       },
-	  {
-        "name": "confirmtkt",
+      {
+        "name": "buddyloan",
         "method": "GET",
-        "url": " https://www.buddyloan.in/sms.php?mobile=",
+        "url": "https://www.buddyloan.in/sms.php?mobile=",
         "identifier": "false"
       },
       {
